@@ -2,61 +2,11 @@ cd
 history | less
 clear
 history
-history git
-history 4
-history
-LS
-pwd
-cd
-ls -m
-la
-ls -a
-ls -alt
-man ls
-ls -F
-ls -Fl
-ls -G
-ls -hl
-ls -l
-ls -h
-ls -lr
-ls -tlr
-ls -tr
-ls -rt
-ls -r
-ll
-ls -lt
-cd home/
-ls -t
-cd /
+
 cd Volumes/
 git config -l | sort
 git config -l
 git --version
-echo $PATH
-which git - location of git
-which brew
-which homebrew
-which fish
-which uname
-echo $EDITOR
-subl ~
-subl /etc/paths
-brew info fish
-brewd
-cd ~
-~
-Movies/
-rm -rf .git
-rm README.md
-cat README.md
-git la
-git ll
-ls -al
-echo $SHELL
-brew doctor
-brew update
-brew doc
 ls - G
 curl -fsSL http://git.io/QxUaOQ | sh
 curl -fsSL http://git.io/7UHtNA | sh
@@ -87,3 +37,5 @@ touch README.md
 git init
 killall Finder
 defaults write com.apple.finder AppleShowAllFiles YES
+
+Edit file with new notes
