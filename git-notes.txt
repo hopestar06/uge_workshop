@@ -1,0 +1,5 @@
+git-notes
+==========
+git branch - create a new branch
+git checkout - make the branch active
+touch <file> - create new file
