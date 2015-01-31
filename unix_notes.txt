@@ -1,0 +1,89 @@
+cd
+history | less
+clear
+history
+history git
+history 4
+history
+LS
+pwd
+cd
+ls -m
+la
+ls -a
+ls -alt
+man ls
+ls -F
+ls -Fl
+ls -G
+ls -hl
+ls -l
+ls -h
+ls -lr
+ls -tlr
+ls -tr
+ls -rt
+ls -r
+ll
+ls -lt
+cd home/
+ls -t
+cd /
+cd Volumes/
+git config -l | sort
+git config -l
+git --version
+echo $PATH
+which git - location of git
+which brew
+which homebrew
+which fish
+which uname
+echo $EDITOR
+subl ~
+subl /etc/paths
+brew info fish
+brewd
+cd ~
+~
+Movies/
+rm -rf .git
+rm README.md
+cat README.md
+git la
+git ll
+ls -al
+echo $SHELL
+brew doctor
+brew update
+brew doc
+ls - G
+curl -fsSL http://git.io/QxUaOQ | sh
+curl -fsSL http://git.io/7UHtNA | sh
+git config --global user.name "Muoi Ly"
+git config --global user.email "muoi.ly@gmail.com"
+brew install git
+breq install git
+subl ~/.config/fish/config.fish
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+fish_update_completions
+cd ~/
+home
+curl -fsSL http://git.io/FzAR | ruby
+chsh -s /usr/local/bin/fish
+echo '/usr/local/bin/fish' | sudo tee -a /etc/shells
+brew install fish
+brew doctor
+ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/install/master/install)"
+uname
+git add .
+cd branches
+cd .git
+git push -u origin master
+git remote add origin https://github.com/hopestar06/cf-challenge1.git
+git commit -m "first commit"
+git add README.md
+touch README.md
+git init
+killall Finder
+defaults write com.apple.finder AppleShowAllFiles YES
