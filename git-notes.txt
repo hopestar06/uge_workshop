@@ -1,5 +1,11 @@
 git-notes
 ==========
-git branch - create a new branch
-git checkout - make the branch active
-touch <file> - create new file
+
+git status --- status of stage
+git log --- status of commit
+git branch --- create a new branch
+git checkout --- make the branch active
+touch <file> --- create new file
+
+git add git_notes.txt --- add to staging area)
+
